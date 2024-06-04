@@ -18,7 +18,7 @@ def main():
                 continue
 
             usr_ipt = int(usr_ipt)
-            if not low < usr_ipt < up:
+            if not low <= usr_ipt <= up:
                 print('You can input from ' + str(low) + 'to' + str(up) + ', input again')
                 continue
 
