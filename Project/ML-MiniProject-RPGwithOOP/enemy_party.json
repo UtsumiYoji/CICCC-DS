@@ -1,0 +1,551 @@
+[
+    {
+        "difficulty": 1,
+        "enemies": [
+            {
+                "enemy": "Slime",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "difficulty": 1,
+        "enemies": [
+            {
+                "enemy": "Slime",
+                "amount": 1
+            },
+            {
+                "enemy": "Goblin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 1,
+        "enemies": [
+            {
+                "enemy": "Goblin",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 1,
+        "enemies": [
+            {
+                "enemy": "Slime",
+                "amount": 2
+            },
+            {
+                "enemy": "Goblin",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 1,
+        "enemies": [
+            {
+                "enemy": "Slime",
+                "amount": 1
+            },
+            {
+                "enemy": "Goblin",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 1,
+        "enemies": [
+            {
+                "enemy": "Slime",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "difficulty": 1,
+        "enemies": [
+            {
+                "enemy": "Goblin",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "difficulty": 1,
+        "enemies": [
+            {
+                "enemy": "Slime",
+                "amount": 2
+            },
+            {
+                "enemy": "Goblin",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 1,
+        "enemies": [
+            {
+                "enemy": "Goblin",
+                "amount": 1
+            },
+            {
+                "enemy": "Slime",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "difficulty": 1,
+        "enemies": [
+            {
+                "enemy": "Slime",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "difficulty": 2,
+        "enemies": [
+            {
+                "enemy": "Skeleton",
+                "amount": 2
+            },
+            {
+                "enemy": "Slime",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 2,
+        "enemies": [
+            {
+                "enemy": "Goblin",
+                "amount": 1
+            },
+            {
+                "enemy": "Zombie",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 2,
+        "enemies": [
+            {
+                "enemy": "Orc",
+                "amount": 1
+            },
+            {
+                "enemy": "Slime",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 2,
+        "enemies": [
+            {
+                "enemy": "Skeleton",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "difficulty": 2,
+        "enemies": [
+            {
+                "enemy": "Zombie",
+                "amount": 2
+            },
+            {
+                "enemy": "Slime",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 2,
+        "enemies": [
+            {
+                "enemy": "Orc",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 2,
+        "enemies": [
+            {
+                "enemy": "Goblin",
+                "amount": 2
+            },
+            {
+                "enemy": "Skeleton",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 2,
+        "enemies": [
+            {
+                "enemy": "Zombie",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "difficulty": 2,
+        "enemies": [
+            {
+                "enemy": "Orc",
+                "amount": 1
+            },
+            {
+                "enemy": "Goblin",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 2,
+        "enemies": [
+            {
+                "enemy": "Skeleton",
+                "amount": 1
+            },
+            {
+                "enemy": "Zombie",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 3,
+        "enemies": [
+            {
+                "enemy": "Vampire",
+                "amount": 1
+            },
+            {
+                "enemy": "Skeleton",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 3,
+        "enemies": [
+            {
+                "enemy": "Werewolf",
+                "amount": 1
+            },
+            {
+                "enemy": "Goblin",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 3,
+        "enemies": [
+            {
+                "enemy": "Troll",
+                "amount": 1
+            },
+            {
+                "enemy": "Zombie",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 3,
+        "enemies": [
+            {
+                "enemy": "Vampire",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 3,
+        "enemies": [
+            {
+                "enemy": "Werewolf",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 3,
+        "enemies": [
+            {
+                "enemy": "Troll",
+                "amount": 1
+            },
+            {
+                "enemy": "Skeleton",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 3,
+        "enemies": [
+            {
+                "enemy": "Vampire",
+                "amount": 1
+            },
+            {
+                "enemy": "Goblin",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "difficulty": 3,
+        "enemies": [
+            {
+                "enemy": "Werewolf",
+                "amount": 1
+            },
+            {
+                "enemy": "Zombie",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 3,
+        "enemies": [
+            {
+                "enemy": "Troll",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 4,
+        "enemies": [
+            {
+                "enemy": "Witch",
+                "amount": 1
+            },
+            {
+                "enemy": "Orc",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 4,
+        "enemies": [
+            {
+                "enemy": "Dark Knight",
+                "amount": 1
+            },
+            {
+                "enemy": "Vampire",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 4,
+        "enemies": [
+            {
+                "enemy": "Giant",
+                "amount": 1
+            },
+            {
+                "enemy": "Werewolf",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 4,
+        "enemies": [
+            {
+                "enemy": "Witch",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 4,
+        "enemies": [
+            {
+                "enemy": "Dark Knight",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 4,
+        "enemies": [
+            {
+                "enemy": "Giant",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 4,
+        "enemies": [
+            {
+                "enemy": "Witch",
+                "amount": 1
+            },
+            {
+                "enemy": "Dark Knight",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 4,
+        "enemies": [
+            {
+                "enemy": "Vampire",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 4,
+        "enemies": [
+            {
+                "enemy": "Werewolf",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 5,
+        "enemies": [
+            {
+                "enemy": "Demon",
+                "amount": 1
+            },
+            {
+                "enemy": "Phoenix",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 5,
+        "enemies": [
+            {
+                "enemy": "Dragon",
+                "amount": 1
+            },
+            {
+                "enemy": "Hydra",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 5,
+        "enemies": [
+            {
+                "enemy": "Golem",
+                "amount": 1
+            },
+            {
+                "enemy": "Lich",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 5,
+        "enemies": [
+            {
+                "enemy": "Minotaur",
+                "amount": 1
+            },
+            {
+                "enemy": "Banshee",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 5,
+        "enemies": [
+            {
+                "enemy": "Kraken",
+                "amount": 1
+            },
+            {
+                "enemy": "Giant",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "difficulty": 5,
+        "enemies": [
+            {
+                "enemy": "Demon",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 5,
+        "enemies": [
+            {
+                "enemy": "Dragon",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 5,
+        "enemies": [
+            {
+                "enemy": "Golem",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 5,
+        "enemies": [
+            {
+                "enemy": "Lich",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 5,
+        "enemies": [
+            {
+                "enemy": "Minotaur",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "difficulty": 5,
+        "enemies": [
+            {
+                "enemy": "Banshee",
+                "amount": 2
+            }
+        ]
+    }
+]
